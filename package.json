@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "npm": "^6.11.3",
+    "npm": "^6.13.4",
     "react": "15.5.3",
     "react-dom": "15.5.3",
     "react-loadable": "^5.5.0",
